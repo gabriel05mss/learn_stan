@@ -18,7 +18,7 @@ Este modelo estima a média e desvio padrão dos dados que segue distribuição 
 
 Você pode trocar o tamanho da amostra ou o parametro $\sigma^2$ , para perceber como eles afetam a estimação feita pelo modelo.
 
--[back o sumario](#SUMARIO)
+-[back to sumario](#SUMARIO)
 
 
 
@@ -28,7 +28,7 @@ Este modelo estima média e desvio padrão dos dados que seguem distribuição N
 
 Assim como o primeiro modelo voce pode trocar o parametro $\sigma$ e a priori para verificar como isso muda a estimativa do modelo
 
--[back o sumario](#SUMARIO)
+-[back to sumario](#SUMARIO)
 
 ## Contato
 
@@ -36,4 +36,4 @@ email: gmoreira.siva2005@gmail.com
 
 linkedin: www.linkedin.com/in/gabriel-moreira-73341a23b
 
--[back o sumario](#SUMARIO)
+-[back to sumario](#SUMARIO)
