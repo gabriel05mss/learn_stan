@@ -9,6 +9,8 @@ Repositorio dedicado a atualizar os aprendizado de stan/rstan como ferramenta de
 
 -[Terçeiro modelo](#Terçeiro-modelo)
 
+-[Quarto modelo](#Quarto-modelo)
+
 -[Contato](#Contato)
 
 
@@ -40,9 +42,17 @@ Assim como o primeiro modelo voce pode trocar o parametro $\sigma$ e a priori pa
 
 pasta : modelo_3
 
-Familias modelos de regressão linear , o primeiro feito com a variancia fixa tendo distribuição y ~ N( $\beta_0\$ + $\beta_1\$ * $x\$ , 1)
+Familia de  modelos de regressão linear , o primeiro feito com a variancia fixa tendo distribuição y ~ N( $\beta_0\$ + $\beta_1\$ * $x\$ , 1)
 
 já o segundo usamos o uma distribuição a priori para a variancia, y ~ N( $\beta_0\$ + $\beta_1\$ * $x\$ , $\sigma\$) , sendo $\\sigma$ ~ $Cauchy\$ ( 0 , 2.5 )
+
+-[back to sumário](#SUMÁRIO)
+
+## Quarto modelo
+
+pasta : modelo_4
+
+modelo de regressão poisson, que estima $\beta_0\$ e $\beta_1\$ com y seguindo distribuição poisson( $e^{\beta_0 + \beta_1 x} \$)
 
 -[back to sumário](#SUMÁRIO)
 
